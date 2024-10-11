@@ -106,8 +106,6 @@ To deploy the application:
 - For the database, consider **AWS RDS** for PostgreSQL or **MongoDB Atlas** for MongoDB.
 - Ensure your Twilio webhook is configured to point to the deployed Django app.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - Django: [Django Official Site](https://www.djangoproject.com/)
